@@ -383,3 +383,40 @@
 .contact-info li.twitter a {
     background-image: url('../img/twitter.png');
 }
+
+.s2-carousel {
+    border: 1px solid #222;
+    text-align: center;
+}
+
+.s2-xpedia-title h1 {
+    font-size: 35px;
+    font-family: calibri, sans-serif;
+}
+
+.s2-xpedia-sd h1 {
+    font-size: 19px;
+    font-family: calibri, sans-serif;
+}
+
+.s2-xpedia-sd h2 {
+    font-size: 17px;
+    font-family: calibri, sans-serif;
+}
+
+.xpedia-desc ul li {
+    font-size: 16px;
+    font-family: calibri, sans-serif;
+}
+.estimasi-desc {
+    font-size: 16px;
+    font-family: calibri, sans-serif;
+}
+
+.btn-pilihProduk {
+    background-color: #444444;
+}
+
+.btn-pilihProduk:hover {
+    background-color: #111111;
+}
