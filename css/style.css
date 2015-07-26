@@ -183,7 +183,7 @@
         padding-top: 50px;
     }
     .cs-s1 {
-        padding-bottom: 150px;
+        padding-bottom: 170px;
     }
 }
 
@@ -419,4 +419,13 @@
 
 .btn-pilihProduk:hover {
     background-color: #111111;
+}
+
+.center {
+    text-align: center;
+}
+
+.dist {
+    font-family: calibri, sans-serif;
+    margin-top: 20px;
 }
