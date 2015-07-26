@@ -157,6 +157,13 @@
     .s4 {
         padding-top: 30px;
     }
+    
+}
+
+@media screen and (max-width: 500px) {
+    .reseller-form {
+        padding: 0;
+    }
 }
 
 @media screen and (min-width: 1100px) {
@@ -408,6 +415,7 @@
     font-size: 16px;
     font-family: calibri, sans-serif;
 }
+
 .estimasi-desc {
     font-size: 16px;
     font-family: calibri, sans-serif;
@@ -425,7 +433,40 @@
     text-align: center;
 }
 
-.dist {
+.dist,
+.reseller {
     font-family: calibri, sans-serif;
     margin-top: 20px;
+}
+
+.reseller-ig {
+    background-color: rgb(253, 223, 000);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.reseller-ig p {
+    margin-bottom: 0;
+}
+
+.re-ig {
+    margin-top: 1.125rem;
+    padding: 0;
+}
+
+.re-img {
+    position: relative;
+    bottom: 0px;
+}
+
+.reseller-testi {
+    margin-bottom: 10px;
+}
+
+.hl {
+    font-family: calibri, sans-serif;
+    text-align: center;
+    background-color: #99ddf4;
+    padding: 5px;
+    margin: 0 15px;
 }
