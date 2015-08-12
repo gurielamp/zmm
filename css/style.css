@@ -399,12 +399,12 @@
     font-family: calibri, sans-serif;
 }
 
-.s2-xpedia-sd h1 {
-    font-size: 19px;
+.s2-xpedia h1 {
+    font-size: 21px;
     font-family: calibri, sans-serif;
 }
 
-.s2-xpedia-sd h2 {
+.s2-xpedia h2 {
     font-size: 17px;
     font-family: calibri, sans-serif;
 }
@@ -618,3 +618,40 @@
     }
 }
 
+/*.beli {
+    padding: 5px 10px;
+    border: 1px solid #4e4e4e;
+    color: white;
+    background-color: #4e4e4e;
+} */
+
+.beli {
+    font-weight: bold;
+    font-family: calibri, sans-serif;
+}
+
+.beli:hover {
+    color: #3057dd;
+}
+
+.xpedia7ktsp-desc,
+.xpedia7k13-desc{
+    display: none;
+}
+
+.show-7ktsp,
+.show-7k13{
+    font-family: calibri, sans-serif;
+    color: #2f5cef;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.hide-7ktsp,
+.hide-7k13{
+    font-family: calibri, sans-serif;
+    color: #2f5cef;
+    font-size: 13px;
+    cursor: pointer;
+    display: none;
+}
