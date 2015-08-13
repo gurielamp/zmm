@@ -157,11 +157,19 @@
     .s4 {
         padding-top: 30px;
     }
+    .s2-xpedia-title h1 {
+        font-size: 24px;
+    }
 }
 
 @media screen and (max-width: 500px) {
     .reseller-form {
         padding: 0;
+    }
+    .border-mobile {
+        border: 1px solid #e6e6e6;
+        margin: 5px 0;
+        background-color: #f7f7f7;
     }
 }
 
@@ -190,6 +198,9 @@
     }
     .cs-s1 {
         padding-bottom: 170px;
+    }
+    .s2-xpedia-title h1 {
+        font-size: 35px;
     }
 }
 
@@ -395,7 +406,6 @@
 }
 
 .s2-xpedia-title h1 {
-    font-size: 35px;
     font-family: calibri, sans-serif;
 }
 
@@ -617,7 +627,6 @@
         padding: 14px 0 14px 20px;
     }
 }
-
 /*.beli {
     padding: 5px 10px;
     border: 1px solid #4e4e4e;
@@ -639,7 +648,7 @@
 .xpedia8ktsp-desc,
 .xpedia8k13-desc,
 .xpedia9ktsp-desc,
-.xpedia9k13-desc{
+.xpedia9k13-desc {
     display: none;
 }
 
@@ -648,7 +657,7 @@
 .show-8ktsp,
 .show-8k13,
 .show-9ktsp,
-.show-9k13{
+.show-9k13 {
     font-family: calibri, sans-serif;
     color: #2f5cef;
     font-size: 13px;
@@ -660,7 +669,7 @@
 .hide-8ktsp,
 .hide-8k13,
 .hide-9ktsp,
-.hide-9k13{
+.hide-9k13 {
     font-family: calibri, sans-serif;
     color: #2f5cef;
     font-size: 13px;
