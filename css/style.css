@@ -635,12 +635,20 @@
 }
 
 .xpedia7ktsp-desc,
-.xpedia7k13-desc{
+.xpedia7k13-desc,
+.xpedia8ktsp-desc,
+.xpedia8k13-desc,
+.xpedia9ktsp-desc,
+.xpedia9k13-desc{
     display: none;
 }
 
 .show-7ktsp,
-.show-7k13{
+.show-7k13,
+.show-8ktsp,
+.show-8k13,
+.show-9ktsp,
+.show-9k13{
     font-family: calibri, sans-serif;
     color: #2f5cef;
     font-size: 13px;
@@ -648,7 +656,11 @@
 }
 
 .hide-7ktsp,
-.hide-7k13{
+.hide-7k13,
+.hide-8ktsp,
+.hide-8k13,
+.hide-9ktsp,
+.hide-9k13{
     font-family: calibri, sans-serif;
     color: #2f5cef;
     font-size: 13px;
