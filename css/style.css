@@ -648,7 +648,19 @@
 .xpedia8ktsp-desc,
 .xpedia8k13-desc,
 .xpedia9ktsp-desc,
-.xpedia9k13-desc {
+.xpedia9k13-desc,
+.xpedia10ktsp-desc,
+.xpedia10ipak13-desc,
+.xpedia10ipsk13-desc,
+.xpedia11ipaktsp-desc,
+.xpedia11ipsktsp-desc,
+.xpedia11ipak13-desc,
+.xpedia11ipsk13-desc,
+.xpedia12ipaktsp-desc,
+.xpedia12ipsktsp-desc,
+.xpedia12ipak13-desc,
+.xpedia12ipsk13-desc,
+.xpediaalumni-desc {
     display: none;
 }
 
@@ -657,7 +669,19 @@
 .show-8ktsp,
 .show-8k13,
 .show-9ktsp,
-.show-9k13 {
+.show-9k13,
+.show-10ktsp,
+.show-10ipak13,
+.show-10ipsk13,
+.show-11ipaktsp,
+.show-11ipsktsp,
+.show-11ipak13,
+.show-11ipsk13,
+.show-12ipaktsp,
+.show-12ipsktsp,
+.show-12ipak13,
+.show-12ipsk13,
+.show-alumni {
     font-family: calibri, sans-serif;
     color: #2f5cef;
     font-size: 13px;
@@ -669,7 +693,19 @@
 .hide-8ktsp,
 .hide-8k13,
 .hide-9ktsp,
-.hide-9k13 {
+.hide-9k13,
+.hide-10ktsp,
+.hide-10ipak13,
+.hide-10ipsk13,
+.hide-11ipaktsp,
+.hide-11ipsktsp,
+.hide-11ipak13,
+.hide-11ipsk13,
+.hide-12ipaktsp,
+.hide-12ipsktsp,
+.hide-12ipak13,
+.hide-12ipsk13,
+.hide-alumni{
     font-family: calibri, sans-serif;
     color: #2f5cef;
     font-size: 13px;
