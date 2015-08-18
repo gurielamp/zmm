@@ -171,6 +171,9 @@
         margin: 5px 0;
         background-color: #f7f7f7;
     }
+    .border-mobile {
+        border: 1px solid black;
+    }
 }
 
 @media screen and (min-width: 1100px) {
@@ -211,6 +214,7 @@
 .s2 ul li {
     list-style: url(/img/ceklis.png);
     font-family: corbel, 'droid-sans', sans-serif;
+    font-size: 17px;
 }
 
 .s2 {
@@ -290,12 +294,45 @@
     background-color: #dddddd;
 }
 
+.ruben {
+    background-image: url(/zmm/img/ruben.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.shofi {
+    background-image: url(/zmm/img/shofi.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+} 
+
+.hilman {
+    background-image: url(/zmm/img/Hilman.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+} 
+
+.hafsah {
+    background-image: url(/zmm/img/Hafsah.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: right;
+} 
+
 .t1 {
     background-color: rgb(176, 222, 235);
+    min-height: 250px;
 }
 
 .t2 {
     background-color: rgb(130, 211, 232);
+    min-height: 250px;
+}
+
+.t3 {
+    min-height: 250px;
 }
 
 .zero-padding {
@@ -431,6 +468,7 @@
 
 .btn-pilihProduk {
     background-color: #444444;
+    font-size: 13px;
 }
 
 .btn-pilihProduk:hover {
@@ -572,8 +610,9 @@
     color: #ffffff;
     font-size: 19px;
     padding: 10px 20px 10px 20px;
-    border: solid #555966 2px;
+    border: solid #111 1px;
     text-decoration: none;
+    border-radius: 3px;
 }
 
 .info-btn:hover {
@@ -705,7 +744,7 @@
 .hide-12ipsktsp,
 .hide-12ipak13,
 .hide-12ipsk13,
-.hide-alumni{
+.hide-alumni {
     font-family: calibri, sans-serif;
     color: #2f5cef;
     font-size: 13px;
@@ -722,4 +761,9 @@
     border: 3px solid #ff5a5a;
     padding: 10px 25px 3px 25px;
     margin-bottom: 30px;
+}
+
+.btn-pesan {
+    background-color: #333;
+    border-radius: 6px;
 }
