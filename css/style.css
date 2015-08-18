@@ -712,3 +712,14 @@
     cursor: pointer;
     display: none;
 }
+
+.form-beli {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.formbeli-desc {
+    border: 3px solid #ff5a5a;
+    padding: 10px 25px 3px 25px;
+    margin-bottom: 30px;
+}
