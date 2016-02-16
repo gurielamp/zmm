@@ -322,12 +322,23 @@
 } 
 
 .t1 {
-    background-color: rgb(176, 222, 235);
+    /*background-color: rgb(176, 222, 235);*/
     min-height: 250px;
+}
+.testi-01 {
+    background-color: rgb(176, 222, 235); 
+    border-radius: 0 30px 30px 0;
+}
+.testi-03 {
+    border-left: 1px solid #dbdbdb;
+}
+.testi-04 {
+    background-color: rgb(176, 222, 235);  
+    border-radius: 30px 0 0 30px;
 }
 
 .t2 {
-    background-color: rgb(130, 211, 232);
+    /*background-color: rgb(130, 211, 232);*/
     min-height: 250px;
 }
 
