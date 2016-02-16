@@ -566,13 +566,18 @@
 }
 
 .info-btn {
-    border: 1px solid #666666;
+    border: 1px solid #b5b5b5;
     text-align: center;
     padding: 5px 20px;
     margin-bottom: 40px;
-    background: #7ef0d6;
+    background: #e6e6e6;
     color: black;
+    font-size: 17px;
+    box-shadow: 100px 100px;
 }
+.info-btn:hover {
+    background-color: #cecece;
+} 
 
 .info h1 {
     font-size: 35px;
@@ -604,7 +609,7 @@
     box-shadow: -1px 27px 32px -24px rgba(0, 0, 0, 0.66);*/
 }
 
-.info-btn {
+/*.info-btn {
     background: #389de0;
     background-image: -webkit-linear-gradient(top, #389de0, #2e97d9);
     background-image: -moz-linear-gradient(top, #389de0, #2e97d9);
@@ -634,7 +639,7 @@
     background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
     background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
     text-decoration: none;
-}
+}*/
 
 .top-bar {
     background-image: url(/zmm/img/patterns/fabric_of_squares_gray.png);
