@@ -93,25 +93,7 @@
 	margin: -0.25em 0.4em 0 0;
 }
 
-.icon-food:before {
-	content: "\e600";
-}
 
-.icon-lab:before {
-	content: "\e601";
-}
-
-.icon-cup:before {
-	content: "\e602";
-}
-
-.icon-truck:before {
-	content: "\e603";
-}
-
-.icon-shop:before {
-	content: "\e604";
-}
 
 /* Content */
 .content section {
@@ -171,6 +153,39 @@
 	.tabs nav a span {
 		display: none;
 	}
+    .icon-food:before {
+	    /*content: "\e600";*/
+        content: "Kalimantan";
+        font-size: 13px;
+        font-family: inherit;
+    }
+
+    .icon-lab:before {
+        /*content: "\e601";*/
+        content: "Sulawesi";
+        font-size: 13px;
+        font-family: inherit;
+    }
+
+    .icon-cup:before {
+        /*content: "\e602";*/
+        content: "Sumatera";
+        font-size: 13px;
+        font-family: sans-serif;
+    }
+
+    .icon-truck:before {
+        /*content: "\e603";*/
+        content: "Lainnya";
+        font-size: 13px;
+        font-family: inherit;
+    }
+    .icon-shop:before {
+        /*content: "\e604";*/
+        content: "Jawa";
+        font-size: 13px;
+        font-family: inherit;
+    }
 
 	.tabs nav a:before {
 		margin-right: 0;
